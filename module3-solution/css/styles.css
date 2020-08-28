@@ -1,1 +1,23 @@
-/*todo override navbar to only be visible for desktop*/
+/*make collapsable menu different color*/
+.navbar {
+  padding: 0;
+}
+.navbar-collapse {
+  background-color: #d4d4d4;
+}
+.navbar-brand {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+.navbar-toggler {
+  margin: 0.5rem;
+}
+
+#title {
+  margin: 1.5rem;
+}
+
+#main-text {
+  padding: 2rem;
+  background-color: lightblue;
+}
